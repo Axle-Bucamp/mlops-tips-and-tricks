@@ -1,0 +1,8 @@
+{
+    "plugins": ["-sharing", "-fontsettings", "-search-pro", "search", "highlight", "livereload"],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        }
+    }
+}
