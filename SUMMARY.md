@@ -21,6 +21,12 @@
 * [Track AWS: MLOps avec SageMaker](./platforms/track_aws_sagemaker.md)
 * [Track GCP: MLOps avec Vertex AI](./platforms/track_gcp_vertex_ai.md)
 
+# Annexes
+
+* [Connaissances Fondamentales](./resources/fundamental_knowledge.md)
+* [Edge AI, Robotique et Hardware](./resources/edge_computing_hardware.md)
+* [Outils, Sources et Liens Utiles](./resources/useful_links.md)
+
 # Conclusion
 
 * [Conclusion et Prochaines Étapes](./conclusion/conclusion.md)
